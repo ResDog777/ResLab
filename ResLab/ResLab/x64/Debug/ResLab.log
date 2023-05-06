@@ -1,0 +1,30 @@
+﻿  MyForm.cpp
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1342,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1380,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1417,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1454,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1488,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1555,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1587,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1619,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1651,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1813,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1850,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1887,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1924,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(1958,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2025,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2057,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2089,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2121,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2283,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2320,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2357,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2394,49): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2428,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2496,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2528,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2560,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\VSPrograms\ResLab\ResLab\MyForm.h(2592,51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ResLab.vcxproj -> C:\VSPrograms\ResLab\ResLab\x64\Debug\ResLab.exe

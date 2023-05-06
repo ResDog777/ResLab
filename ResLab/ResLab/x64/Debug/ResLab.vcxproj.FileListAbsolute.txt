@@ -1,0 +1,5 @@
+C:\VSPrograms\ResLab\ResLab\x64\Debug\ResLab.vcxproj.AssemblyReference.cache
+C:\VSPrograms\ResLab\ResLab\x64\Debug\ResLab.vcxproj.SuggestedBindingRedirects.cache
+C:\VSPrograms\ResLab\ResLab\x64\Debug\ResLab.MyForm.resources
+C:\VSPrograms\ResLab\ResLab\x64\Debug\ResLab.vcxproj.GenerateResource.cache
+C:\VSPrograms\ResLab\ResLab\x64\Debug\ResLab.exe
